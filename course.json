@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Curso Full Stack",
+        "description": "Aprender distintas herramientas dentro del mercado"
+    },
+    {
+        "id": 2,
+        "name": "Curso de Desarrollo Web",
+        "description": "Aprender a desarrollar páginas web y editarlas"
+    },
+    {
+        "id": 3,
+        "name": "Curso de CSS",
+        "description": "Aprender a utilizar la herramienta de CSS para página web"
+    },
+    {
+        "id": 4,
+        "name": "Curso de JavaScript",
+        "description": "Aprender a utilizar JavaScript para desarrollo de páginas web"
+    },
+    {
+        "id": 5,
+        "name": "Curso de NodeJS",
+        "description": "Aprender a utilizar NodeJS"
+    },
+    {
+        "id": 6,
+        "name": "Curso de GraphQL",
+        "description": "Aprender a utilizar GraphQL"
+    }
+]
